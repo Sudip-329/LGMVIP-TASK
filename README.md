@@ -12,7 +12,13 @@ https://user-images.githubusercontent.com/108211139/226732798-402702da-6109-486c
 <br>
 
 
-TASk-03 : Scientific Calculator
+TASK-03 : Scientific Calculator
 
 https://user-images.githubusercontent.com/108211139/226733398-e4640115-82a2-4bcf-93b3-8b684f60ce7d.mp4
+
+TASK-05 : Text Editor
+
+
+
+https://user-images.githubusercontent.com/108211139/227023112-c2a9eadf-faca-41aa-bbb6-b4271577fa8f.mp4
 
